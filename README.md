@@ -1,2 +1,8 @@
-# imdb-sentiment-analysis
-Cutting-edge deep learning model leveraging the power of the uncased BERT architecture, utilizing the transformers library and optimized with PyTorch for optimal performance.
+# IMDB Sentiment Classification
+IMDB reviews dataset for binary classification
+[Dataset Link](https://huggingface.co/datasets/imdb)
+
+## Key Components Used:
+* Fine Tuned Uncased BERT model
+* Transformers Library
+* Pytorch 
